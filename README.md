@@ -1,6 +1,6 @@
 ## GDPR Checker
 
-This module is designed to make it easier to look up if a user appears to be a resident covered bby the GDPR based on IP address.
+This module is designed to make it easier to look up if a user appears to be a resident covered by the GDPR based on IP address.
 
 This is only a best-effort guess, no guarantee or claim is made that this information will always be accurate or reliable.
 
