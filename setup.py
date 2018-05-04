@@ -5,7 +5,7 @@ with open('README.md') as f:
 
 setup(
     name='gdpr_check',
-    version='0.2',
+    version='0.4',
     description='Check if a user is covered by GDPR. Compare IP address to list of EEA/EU countries.',
     url='http://github.com/revmischa/gdpr_check',
     author='Mischa Spiegelmock',
@@ -15,6 +15,6 @@ setup(
     zip_safe=False,
     long_description=long_description,
     long_description_content_type='text/markdown',
-    keywords=['gdpr', 'eea', 'eu', 'ip', 'check', 'geoip', 'country'],
+    keywords='gdpr eea eu ip check geoip country',
     setup_requires=['setuptools>=38.6.0'],
 )
