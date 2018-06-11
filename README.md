@@ -9,6 +9,8 @@ This is only a best-effort guess, no guarantee or claim is made that this inform
 
 ## Usage:
 ```
+from gdpr_check import Checker
+
 # default uses bundled GeoLite2 DB:
 c = Checker()
 
